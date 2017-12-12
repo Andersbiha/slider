@@ -1,12 +1,13 @@
-# Slider
+# vue-bulma-slider
 
 Slider component for Vue Bulma.
 
+Fork of [vue-bulma/slider](https://github.com/vue-bulma/slider)
 
 ## Installation
 
 ```
-$ npm install vue-bulma-slider --save
+$ yarn add https://github.com/Andersbiha/vue-bulma-slider
 ```
 
 
@@ -49,15 +50,3 @@ export default {
  }
 </script>
 ```
-
-
-## Badges
-
-![](https://img.shields.io/badge/license-MIT-blue.svg)
-![](https://img.shields.io/badge/status-stable-green.svg)
-
----
-
-> [fundon.me](https://fundon.me) &nbsp;&middot;&nbsp;
-> GitHub [@fundon](https://github.com/fundon) &nbsp;&middot;&nbsp;
-> Twitter [@_fundon](https://twitter.com/_fundon)
